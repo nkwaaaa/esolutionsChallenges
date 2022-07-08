@@ -1,0 +1,16 @@
+{
+  "name": "challenge3",
+  "version": "1.0.0",
+  "description": "Servidor web que devuelve un Objeto Usuario formato JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Servidor",
+    "Usuario",
+    "Esolutions"
+  ],
+  "author": "Arroyo Hernan",
+  "license": "ISC"
+}
